@@ -1,0 +1,12 @@
+nav a{
+    text-decoration: none;
+    color: aquamarine;
+    transition: 0.5s;
+}
+
+nav a:hover{
+    color:rgb(136, 255, 0) ;
+    background-color:rgb(165, 106, 42) ;
+    font-weight: bold;
+    font-style: italic;
+}
