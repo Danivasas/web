@@ -10,3 +10,10 @@ nav a:hover{
     font-weight: bold;
     font-style: italic;
 }
+
+#footer{
+background-color:rgb(134, 12, 234) ;
+padding:10px ;
+text-align:center ;
+color:white ;
+}
