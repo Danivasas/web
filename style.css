@@ -11,7 +11,14 @@ nav a:hover{
     font-style: italic;
 }
 .kerert{
-    width: 90%;
+    width: 40%;
     border-color: black;
     border: 3px;
+    float: right;
+}
+.kerert1{
+    width: 40%;
+    border-color: black;
+    border: 3px;
+    float: left;
 }
