@@ -14,11 +14,8 @@ nav a:hover{
     width: 40%;
     border-color: black;
     border: 3px;
-    float: right;
-}
-.kerert1{
-    width: 40%;
-    border-color: black;
-    border: 3px;
     float: left;
+}
+.keretalja{
+   clear: both;
 }
