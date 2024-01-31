@@ -10,4 +10,8 @@ nav a:hover{
     font-weight: bold;
     font-style: italic;
 }
-
+.kerert{
+    width: 90%;
+    border-color: black;
+    border: 3px;
+}
