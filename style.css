@@ -13,7 +13,7 @@ nav a:hover{
 
 .kerert1{
     transform: scale(1.2, 1.2);
-    width: 10%;
+    font-size: 20px;
     float: left;
 }
 .kerert2:hover {
