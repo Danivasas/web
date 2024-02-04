@@ -22,3 +22,9 @@ nav a:hover{
 .keretalja{
    clear: both;
 }
+button{
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+    border-radius: 10px;
+}
