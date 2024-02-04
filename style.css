@@ -10,15 +10,31 @@ nav a:hover{
     font-weight: bold;
     font-style: italic;
 }
-.kerert1{
-    width: 40%;
-    border-color: black;
-    border: 3px;
-    float: left;
-}
+
 .kerert1:hover {
     transform: scale(1.2, 1.2);
+    width: 200px;
+    float: left;
 }
+.kerert2:hover {
+    transform: scale(1.2, 1.2);
+    width: 200px;
+    float: left;
+
+}
+.kerert3:hover {
+    transform: scale(1.2, 1.2);
+    width: 200px;
+    float: left;
+
+}
+.kerert4:hover {
+    transform: scale(1.2, 1.2);
+    width: 200px;
+    float: left;
+
+}
+.kerer
 .keretalja{
    clear: both;
 }
