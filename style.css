@@ -13,18 +13,18 @@ nav a:hover{
 
 .kerert1:hover {
     transform: scale(1.2, 1.2);
-    width: 200px;
+    width: 10%;
     float: left;
 }
 .kerert2:hover {
     transform: scale(1.2, 1.2);
-    width: 200px;
+    width: 10%;
     float: left;
 
 }
 .kerert3:hover {
     transform: scale(1.2, 1.2);
-    width: 200px;
+    width: 10%;
     float: left;
 
 }
