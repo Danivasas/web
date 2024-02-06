@@ -11,36 +11,48 @@ nav a:hover{
     font-style: italic;
 }
 
-.kerert1{
-    transform: scale(1.2, 1.2);
-    font-size: 20px;
-    float: left;
-}
-.kerert2:hover {
-    transform: scale(1.2, 1.2);
-    width: 10%;
-    float: left;
 
-}
-.kerert3:hover {
-    transform: scale(1.2, 1.2);
-    width: 10%;
-    float: left;
-
-}
-.kerert4:hover {
-    transform: scale(1.2, 1.2);
-    width: 10%;
-    float: left;
-
-}
-.kerer
-.keretalja{
-   clear: both;
-}
 button{
     font-size: 25px;
     color: aqua;
     background-color: black;
     border-radius: 10px;
 }
+#tavasz{
+    border: 3px ;
+    transition: 3s;
+    float: left;
+}
+#nyar{
+    border: 3px ;
+    transition: 3s;
+    float: left;
+}
+#osz{
+    border: 3px ;
+    transition: 3s;
+    float: left;
+}
+#tel{
+    border: 3px ;
+    transition: 3s;
+    float: left;
+}
+#tavasz:hover{
+    scale: 1.1;
+}
+#nyar:hover{
+    scale: 1.1;
+}
+#osz:hover{
+scale: 1.1;
+}
+#tel:hover{
+    scale: 1.1;
+}
+.kep{
+    max-width: 200px;
+}
+#keretalja{
+    clear: both;
+ }
