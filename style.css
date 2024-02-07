@@ -19,22 +19,22 @@ button{
     border-radius: 10px;
 }
 #tavasz{
-    border: 3px solid ;
+    border: 3px solid aqua;
     transition: 3s;
     float: left;
 }
 #nyar{
-    border: 3px solid ;
+    border: 3px solid aqua;
     transition: 3s;
     float: left;
 }
 #osz{
-    border: 3px solid ;
+    border: 3px solid aqua;
     transition: 3s;
     float: left;
 }
 #tel{
-    border: 3px solid ;
+    border: 3px solid aqua;
     transition: 3s;
     float: left;
 }
