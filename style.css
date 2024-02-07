@@ -38,15 +38,18 @@ button{
     transition: 3s;
     float: left;
 }
-#tavasz:hover{
+#tavasz:hover img{
     scale: 1.1;
 }
-#nyar:hover{
+#nyar:hover img{
     scale: 1.1;
 }
-#osz:hover{
+#osz:hover img{
     scale: 1.1;
 }
-#tel:hover{
+#tel:hover img{
     scale: 1.1;
+}
+.semmi{
+    clear: both;
 }
