@@ -22,21 +22,28 @@ button{
     border: 3px solid aqua;
     transition: 3s;
     float: left;
+    margin: auto;
 }
 #nyar{
     border: 3px solid aqua;
     transition: 3s;
     float: left;
+    margin: auto;
+
 }
 #osz{
     border: 3px solid aqua;
     transition: 3s;
     float: left;
+    margin: auto;
+
 }
 #tel{
     border: 3px solid aqua;
     transition: 3s;
     float: left;
+    margin: auto;
+
 }
 #tavasz:hover img{
     scale: 1.1;
